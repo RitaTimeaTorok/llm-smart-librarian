@@ -1,4 +1,3 @@
-import os, json
 import streamlit as st
 from utils_openai_client import get_client
 from rag.retriever import search
